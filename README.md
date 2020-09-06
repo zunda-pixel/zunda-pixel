@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://raw.githubusercontent.com/zunda-pixel/zunda-pixel/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+少し例をあげると
+
+![zunda-pixel's github stats](https://github-readme-stats.vercel.app/api?username=zunda-pixel)
+
+
