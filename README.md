@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/zunda-pixel/zunda-pixel/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![zunda-pixel's github stats](https://github-readme-stats.vercel.app/api?username=zunda-pixel)
+![zunda-pixel's github stats](https://github-readme-stats.vercel.app/api?username=zunda-pixel&count_private=true&theme=dracula)
+
 
 
