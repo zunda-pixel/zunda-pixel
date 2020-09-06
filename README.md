@@ -14,7 +14,7 @@
 ![zunda-pixel's github stats](https://github-readme-stats.vercel.app/api?username=zunda-pixel&count_private=true&theme=dracula)
 
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zunda-pixel)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zunda-pixel&repo=ChangeKeySound)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zunda-pixel)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zunda-pixel&layout=compact)
