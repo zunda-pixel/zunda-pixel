@@ -15,6 +15,6 @@
 
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zunda-pixel)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zunda-pixel&layout=compact)
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zunda-pixel&repo=ChangeKeySound)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zunda-pixel)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zunda-pixel&layout=compact)
