@@ -11,4 +11,4 @@
 
 ![zunda-pixel's github stats](https://github-readme-stats.vercel.app/api?username=zunda-pixel&count_private=true&theme=calm)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zunda-pixel&layout=compact&theme=calm)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zunda-pixel&repo=ChangeKeySound&theme=calm)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zunda-pixel&repo=Celemo&theme=calm)
