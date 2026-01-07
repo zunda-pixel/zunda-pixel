@@ -1,4 +1,4 @@
-### Hi there, I'm [zunda](https://twitter.com/zunda_pixel)👋
+### Hi there, I'm [zunda](https://x.com/zunda_pixel)👋
 
 ## Languages and Tools
 
