@@ -6,7 +6,7 @@
 - Server Side Swift (Hummingbird)
 - iOS Application (SwiftUI)
 
-[![My Skills](https://skillicons.dev/icons?i=swift,cloudflare,postgres,valkey)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?i=swift,cloudflare,postgresql,valkey,hashicorp)](https://github.com/syvixor/skills-icons)
 
 
 
